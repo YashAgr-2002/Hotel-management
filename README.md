@@ -1,4 +1,4 @@
-# Hotel Management System - JavaFX!!
+# Hotel Management System - !JavaFX!!
 
 <div align="center">
 <img src="https://i.imgur.com/Fk7sfMT.jpg" >
@@ -31,7 +31,7 @@
 ## Demos
 
 
-<div align="center">
+<div align=" center ">
   <h2>Overview</h2>
 <img src="/screenshots/001.gif" alt= "image">
 </div>
